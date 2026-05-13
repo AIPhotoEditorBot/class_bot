@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # --- КОНФИГУРАЦИЯ ---
-BOT_TOKEN = "8293585417:AAHsbZv7_ChcIPdMjwRegILTixwZOjdIt1Y" 
+BOT_TOKEN = "8293585417:AAFrZ-3EeADwBtz87z2_zWomxFBxHQfDPQs" 
 DB_NAME = "school_data.db"
 
 # Включаем логирование
