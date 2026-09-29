@@ -15,7 +15,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
-
+from apscheduler.schedulers.background import BackgroundScheduler
+scheduler = BackgroundScheduler({'apscheduler.timezone': 'UTC'})
 # --- КОНФИГУРАЦИЯ ---
 BOT_TOKEN = "8293585417:AAG0yaEWy-FJcI6UIm67ODlUSQfTKNFAsC4" 
 ADMIN_ID = 6774558397
