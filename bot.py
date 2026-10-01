@@ -2052,7 +2052,6 @@ def get_admin_reaction_keyboard():
 ADMIN_REACTIONS = {
     "thumbs_up": "👍",
     "red_heart": "❤️",
-    "laugh": "😂",
     "fire": "🔥",
     "party": "🎉",
     "sad": "😢",
