@@ -1,3 +1,0 @@
-aiogram
-aiosqlite
-apscheduler
