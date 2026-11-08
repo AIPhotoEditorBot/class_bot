@@ -78,7 +78,7 @@ def minsk_log_converter(timestamp):
 logging.Formatter.converter = minsk_log_converter
 
 # --- КОНФИГУРАЦИЯ ---
-BOT_TOKEN = "8293585417:AAG0yaEWy-FJcI6UIm67ODlUSQfTKNFAsC4" 
+BOT_TOKEN = "8293585417:AAHuesNWCiXT-QT5EROVEYgsJ6Rh6rtKC2w" 
 ADMIN_ID = 6774558397
 ANON_CHAT_ID = -1002720925459
 DB_NAME = "school_data.db"
